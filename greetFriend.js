@@ -1,8 +1,6 @@
 
 function greetFriend(name) {
-    console.log("Hello, " + name + "!");
-
-    return name;
+    return ("Hello, " + name + "!");;
 }
 
 greetFriend("Bob");
